@@ -6,11 +6,11 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Live Demo
 
-[View Live Site](https://github.com/Mshi-dev15/iyf-s10-week-03-Mshi-dev15)  <!-- Replace with GitHub Pages link if deployed -->
+[View Live Site](https://mshi-dev15.github.io/iyf-s10-week-01-Mshi-dev15/)  <!-- Replace with GitHub Pages link if deployed -->
 
 ## Screenshot
 
-![Project Screenshot](./images/screenshot.png)  <!-- Replace with actual screenshot if you have one -->
+![Project Screenshot](images/Screenshot 2026-03-09 223537.png)  <!-- Replace with actual screenshot if you have one -->
 
 ## Features
 
@@ -54,7 +54,7 @@ iyf-s10-week-03-yourusername/
 
 ## Contact
 
-- Email: faith@example.com
+- Email: winnie2425walker@gmail.com
 - LinkedIn: [Faith Mshiki](https://www.linkedin.com/in/faith-mshiki-b782b6221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: [@Mshi-dev15](https://github.com/Mshi-dev15)
 
