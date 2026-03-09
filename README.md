@@ -10,7 +10,7 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Screenshot
 
-![Project Screenshot](images/Screenshot 2026-03-09 223537.png)  <!-- Replace with actual screenshot if you have one -->
+![Project Screenshot](images/Screenshot.png)  <!-- Replace with actual screenshot if you have one -->
 
 ## Features
 
