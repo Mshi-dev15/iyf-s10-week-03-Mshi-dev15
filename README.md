@@ -50,6 +50,10 @@ iyf-s10-week-03-yourusername/
 - Linking CSS and making pages responsive
 - Using Git branches, merging, and GitHub workflow
 - How to handle merge conflicts
+- How to use terminal commands (mkdir, touch, cat)
+- Git branching and merging
+- How to resolve merge conflicts
+- Push and pull with GitHub
 
 ## Future Improvements
 
