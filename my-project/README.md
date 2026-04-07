@@ -15,7 +15,7 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Screenshot
 
-![Project Screenshot](https://github.com/Mshi-dev15/iyf-s10-week-03-Mshi-dev15/blob/main/images/Screenshot%202026-04-04%20170131.png)  
+![Project Screenshot](https://github.com/Mshi-dev15/iyf-s10-week-03-Mshi-dev15/blob/main/my-pjorect/src/images/Screenshot%202026-04-04%20170131.png)  
 
 ## Features
 
