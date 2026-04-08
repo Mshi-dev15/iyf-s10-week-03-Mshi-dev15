@@ -32,7 +32,7 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Project Structure
 
-\`\`\`
+```
 iyf-s10-week-03-yourusername/
 ├── index.html
 ├── about.html
@@ -41,7 +41,7 @@ iyf-s10-week-03-yourusername/
 ├── css/
 │   └── styles.css
 └── images/
-\`\`\`
+```
 
 
 ## What I Learned
