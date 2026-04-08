@@ -11,7 +11,7 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Live Demo
 
-[View Live Site](https://mshi-dev15.github.io/iyf-s10-week-01-Mshi-dev15/)  
+[🚀🚀View Live Site](https://mshi-dev15.github.io/iyf-s10-week-02-Mshi-dev15/) 
 
 ## Screenshot
 
