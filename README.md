@@ -11,7 +11,7 @@ I practiced CSS styling, responsive design, and Git/GitHub workflow.
 
 ## Live Demo
 
-[🚀🚀View Live Site](https://mshi-dev15.github.io/iyf-s10-week-02-Mshi-dev15/) 
+[![Portfolio](https://img.shields.io/badge/🏠%20Portfolio-274D6A?style=for-the-badge&logoColor=black)](https://mshi-dev15.github.io/iyf-s10-week-02-Mshi-dev15/)
 
 ## Screenshot
 
